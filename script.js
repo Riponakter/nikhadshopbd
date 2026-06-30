@@ -11,7 +11,7 @@
 
 const CONFIG = {
   // আপনার Google Apps Script Web App URL
-  SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbxL-JezPoFBMBCHHocWCtJvOsJLx83yA3Xce_Co27pgYn1RgkeYmUukz18AESUPaEHT/exec',
+  SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbxwCZaMRHtI9mY1m8cEWl6qWx1rrf9oT-koQhRX_cs1pB9CA2U0PVKGJt__5-mg3759/exec',
   
   // ডেলিভারি চার্জ (ঢাকার ভিতরে/বাইরে)
   DELIVERY_CHARGE_DHAKA: 70,
